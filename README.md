@@ -6,7 +6,7 @@
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
 | HTML | PHP | Mysql |
-| Javascript | Firebase |
+| Javascript | Firebase | Firebase |
 | Boostrap | NodeJs |
 
 
