@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome `coders` 👋
+
+
+> I am learning programming languages ​​and here I am storing the small projects that I am doing to learn every day
+
+| `🔭Frontend` | `⚡Backend` | `📫Database` |
+| ------ | ------ | ------ | 
+| HTML | PHP | Mysql |
+| Javascript | Firebase |
+| Boostrap | NodeJs |
+
 
 <!--
 **storres20/storres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
