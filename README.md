@@ -1,7 +1,7 @@
 ### Welcome `coders` 👋
 
 
-> I am learning programming languages ​​and here I am storing the small projects that I am doing to learn every day
+> I'm learning programming languages and here I'm storing the small projects that I'm doing to learn every day
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
