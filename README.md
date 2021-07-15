@@ -14,11 +14,11 @@
 
 ## 💼Projects:
 
-| `📋Repository` | `🌎Website` | `💻IT` |
-| ------ | ------ | ------ |
-| [firebaseCRUD1](https://github.com/storres20/firebaseCRUD1 "firebaseCRUD1") | https://fbcrud-bluu.web.app/ | Firebase |
-| [PHPMysqlCRUD](https://github.com/storres20/PHPMysqlCRUD "PHPMysqlCRUD") | [https://phpmysqlcrud.herokuapp.com/](https://phpmysqlcrud.herokuapp.com/ "https://phpmysqlcrud.herokuapp.com/") | Heroku |
-| [PHP_CRUD_MVC](https://github.com/storres20/PHP_CRUD_MVC "PHP_CRUD_MVC") | [https://phpcrudmvc.herokuapp.com/](https://phpcrudmvc.herokuapp.com/ "https://phpcrudmvc.herokuapp.com/") | Heroku |
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
+| :------ | :------: | :------ | :------: |
+| Firebase CRUD | [Link](https://github.com/storres20/firebaseCRUD1 "firebaseCRUD1") | https://fbcrud-bluu.web.app/ | Firebase |
+| PHP CRUD | [Link](https://github.com/storres20/PHPMysqlCRUD "PHPMysqlCRUD") | [https://phpmysqlcrud.herokuapp.com/](https://phpmysqlcrud.herokuapp.com/ "https://phpmysqlcrud.herokuapp.com/") | Heroku |
+| PHP CRUD usando MVC | [Link](https://github.com/storres20/PHP_CRUD_MVC "PHP_CRUD_MVC") | [https://phpcrudmvc.herokuapp.com/](https://phpcrudmvc.herokuapp.com/ "https://phpcrudmvc.herokuapp.com/") | Heroku |
 
 
 
