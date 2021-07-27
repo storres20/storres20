@@ -8,8 +8,9 @@
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
 | HTML | PHP | Mysql |
-| Javascript | Firebase | Firebase |
-| Boostrap | NodeJs |
+| CSS | Firebase | Firebase |
+| Javascript | NodeJs |
+| Boostrap |  |
 
 
 ## 💼projects:
