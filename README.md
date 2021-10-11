@@ -25,7 +25,7 @@
 ## 💼contributions:
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------ | :------: |
-| CMYK Orange | [Link](https://github.com/storres20/cmyk-orange "Link") | https://cmyk-orange.vercel.app/ | Frontend + Firebase |
+| CMYK Orange | [Link](https://github.com/storres20/cmyk-orange "Link") | https://cmyk-orange.netlify.app/ | Frontend + Firebase |
 
 <!--
 **storres20/storres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
