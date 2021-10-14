@@ -7,10 +7,9 @@
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
-| HTML | PHP | Mysql |
-| CSS | Python | MongoDB |
-| Javascript | NodeJs |
-| Boostrap |  |
+| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql |
+| React | Nodejs + Express | MongoDB |
+
 
 
 ## 💼projects:
