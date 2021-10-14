@@ -8,7 +8,7 @@
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
 | HTML | PHP | Mysql |
-| CSS | Firebase | Firebase |
+| CSS | Python | MongoDB |
 | Javascript | NodeJs |
 | Boostrap |  |
 
