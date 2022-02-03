@@ -34,7 +34,7 @@
 | CMYK Orange | [Link](https://github.com/storres20/cmyk-orange "Link") | https://cmyk-orange.netlify.app/ | Frontend + Firebase | [Link](https://www.figma.com/file/6PfcEJtVOg1H9ot4owLjNl/ColabOrange-CMYK-fork?node-id=0%3A1 "Link") |
 | Rutas | Private | http://www.aralda.com/ruta/ | Frontend + PHP - Codeigniter 3 | --- |
 | Starflix | [Link](https://github.com/storres20/starflix "Link") | --- | React + Node js + Mysql | --- |
-| LerChat | [Link](https://github.com/tiquor/lerchat "Link") | --- | React + Node js + MongoDB | --- |
+
 
 <!--
 **storres20/storres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
