@@ -15,8 +15,8 @@
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `🎨Figma` |
 | :------ | :------: | :------ | :------: |
-| Reflexo Web | [Link](https://github.com/storres20/reflexoWeb "Link") | [https://reflexoweb.netlify.app/](https://reflexoweb.netlify.app/ "https://reflexoweb.netlify.app/") | [go](http://stackoverflow.com){:target="_blank"} |
-| Cevicheria - El caballero de los mares | Private | [https://elcaballerosingle.netlify.app/](https://elcaballerosingle.netlify.app/ "https://elcaballerosingle.netlify.app/") | [Link](https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1 "Link") |
+| Reflexo Web | [Link](https://github.com/storres20/reflexoWeb "Link") | [https://reflexoweb.netlify.app/](https://reflexoweb.netlify.app/ "https://reflexoweb.netlify.app/") | --- |
+| Cevicheria - El caballero de los mares | Private | [https://elcaballerosingle.netlify.app/](https://elcaballerosingle.netlify.app/ "https://elcaballerosingle.netlify.app/") | [Link](https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1 "Link"){:target="_blank"} |
 
 
 ## 💼personal projects:
