@@ -1,7 +1,7 @@
 # Welcome `coders` 👋
 
 
-> I'm learning programming languages and here I'm storing the small projects that I'm doing to learn every day
+> These are my Projects
 
 ## 🔭skils:
 
