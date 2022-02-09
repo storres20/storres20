@@ -26,12 +26,12 @@
 | Rutas | Private | http://www.aralda.com/ruta/ | Frontend + PHP - Codeigniter 3 | [Link](https://www.figma.com/file/CV0BmYQEau9bLiV9oFfMqj/Rutas?node-id=0%3A1 "Link") |
 | Starflix | [Link](https://github.com/storres20/starflix "Link") | --- | React + Node js + Mysql | --- |
 
-
+https://moviesx7.netlify.app/
 ## 💼personal projects:
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------ | :------: |
-| movie API | [Link](https://github.com/storres20/movies-react "Link") | --- | React js |
+| movie API | [Link](https://github.com/storres20/movies-react "Link") | [https://moviesx7.netlify.app/](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | React js |
 | PHP CRUD | [Link](https://github.com/storres20/PHPMysqlCRUD "Link") | [https://phpmysqlcrud.herokuapp.com/](https://phpmysqlcrud.herokuapp.com/ "https://phpmysqlcrud.herokuapp.com/") | Frontend + PHP |
 | PHP CRUD usando MVC | [Link](https://github.com/storres20/PHP_CRUD_MVC "Link") | [https://phpcrudmvc.herokuapp.com/](https://phpcrudmvc.herokuapp.com/ "https://phpcrudmvc.herokuapp.com/") | Frontend + PHP |
 | PHP CRUD and Codeigniter 3 | [Link](https://github.com/storres20/php-crud-codeigniter3 "Link") | [https://phpcodeigniter3.herokuapp.com/](https://phpcodeigniter3.herokuapp.com/ "https://phpcodeigniter3.herokuapp.com/") | Frontend + Codeigniter 3 (PHP) | 
