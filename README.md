@@ -16,7 +16,7 @@
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `🎨Figma` |
 | :------ | :------: | :------ | :------: |
 | Reflexo Web | [Link](https://github.com/storres20/reflexoWeb "Link") | [https://reflexoweb.netlify.app/](https://reflexoweb.netlify.app/ "https://reflexoweb.netlify.app/") | --- |
-| Cevicheria - El caballero de los mares | Private | [https://elcaballerosingle.netlify.app/](https://elcaballerosingle.netlify.app/ "https://elcaballerosingle.netlify.app/") | [Link](https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1 "Link") |
+| Cevicheria - El caballero de los mares | [Link](https://github.com/storres20/elcaballerosingle "Link") | [https://elcaballerosingle.netlify.app/](https://elcaballerosingle.netlify.app/ "https://elcaballerosingle.netlify.app/") | [Link](https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1 "Link") |
 
 
 ## 💼team projects:
