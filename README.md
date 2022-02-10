@@ -26,7 +26,7 @@
 | Rutas | Private | http://www.aralda.com/ruta/ | Frontend + PHP - Codeigniter 3 | [Link](https://www.figma.com/file/CV0BmYQEau9bLiV9oFfMqj/Rutas?node-id=0%3A1 "Link") |
 | Starflix | [Link](https://github.com/storres20/starflix "Link") | --- | React + Node js + Mysql | --- |
 
-https://moviesx7.netlify.app/
+
 ## 💼personal projects:
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
