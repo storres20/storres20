@@ -37,12 +37,12 @@
 
 ## 👨‍💻personal projects:
 
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` | `🎨Figma` |
-| :------ | :------: | :------ | :------: | :------: |
-| CMYK Orange v2 | [Link](https://github.com/storres20/cmyk-orange-v2 "Link") | https://cmyk-orange-v2.netlify.app/ | Frontend + Firebase | [Link](https://www.figma.com/file/6PfcEJtVOg1H9ot4owLjNl/ColabOrange-CMYK-fork?node-id=0%3A1 "Link") |
-| PHP CRUD | [Link](https://github.com/storres20/PHPMysqlCRUD "Link") | [https://phpmysqlcrud.herokuapp.com/](https://phpmysqlcrud.herokuapp.com/ "https://phpmysqlcrud.herokuapp.com/") | Frontend + PHP | --- |
-| PHP CRUD usando MVC | [Link](https://github.com/storres20/PHP_CRUD_MVC "Link") | [https://phpcrudmvc.herokuapp.com/](https://phpcrudmvc.herokuapp.com/ "https://phpcrudmvc.herokuapp.com/") | Frontend + PHP | --- |
-| PHP CRUD and Codeigniter 3 | [Link](https://github.com/storres20/php-crud-codeigniter3 "Link") | [https://phpcodeigniter3.herokuapp.com/](https://phpcodeigniter3.herokuapp.com/ "https://phpcodeigniter3.herokuapp.com/") | Frontend + Codeigniter 3 (PHP) |  --- |
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
+| :------ | :------: | :------ | :------: |
+| CMYK Orange v2 | [Link](https://github.com/storres20/cmyk-orange-v2 "Link") | https://cmyk-orange-v2.netlify.app/ | Frontend + Firebase |
+| PHP CRUD | [Link](https://github.com/storres20/PHPMysqlCRUD "Link") | [https://phpmysqlcrud.herokuapp.com/](https://phpmysqlcrud.herokuapp.com/ "https://phpmysqlcrud.herokuapp.com/") | Frontend + PHP |
+| PHP CRUD usando MVC | [Link](https://github.com/storres20/PHP_CRUD_MVC "Link") | [https://phpcrudmvc.herokuapp.com/](https://phpcrudmvc.herokuapp.com/ "https://phpcrudmvc.herokuapp.com/") | Frontend + PHP |
+| PHP CRUD and Codeigniter 3 | [Link](https://github.com/storres20/php-crud-codeigniter3 "Link") | [https://phpcodeigniter3.herokuapp.com/](https://phpcodeigniter3.herokuapp.com/ "https://phpcodeigniter3.herokuapp.com/") | Frontend + Codeigniter 3 (PHP) |
 
 
 
