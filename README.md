@@ -8,7 +8,8 @@
 | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | ------ | ------ | ------ | 
 | HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql |
-| React | Nodejs + Express | MongoDB |
+| React js | Nodejs + Express | MongoDB |
+| Bootstrap |  |  |
 
 
 ## 💼commercial projects:
