@@ -19,7 +19,7 @@
 | Cevicheria - El caballero de los mares | [Link](https://github.com/storres20/elcaballerosingle "Link") | [https://elcaballerosingle.netlify.app/](https://elcaballerosingle.netlify.app/ "https://elcaballerosingle.netlify.app/") | [Link](https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1 "Link") |
 
 
-## 💼team projects:
+## 👨‍👦‍👦team projects:
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` | `🎨Figma` |
 | :------ | :------: | :------ | :------: | :------: |
 | CMYK Orange | [Link](https://github.com/storres20/cmyk-orange "Link") | https://cmyk-orange.netlify.app/ | Frontend + Firebase | [Link](https://www.figma.com/file/6PfcEJtVOg1H9ot4owLjNl/ColabOrange-CMYK-fork?node-id=0%3A1 "Link") |
@@ -27,11 +27,17 @@
 | Starflix | [Link](https://github.com/storres20/starflix "Link") | --- | React + Node js + Mysql | --- |
 
 
-## 💼personal projects:
+## 🧩 API
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------ | :------: |
 | movie API | [Link](https://github.com/storres20/movies-react "Link") | [https://moviesx7.netlify.app/](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | React js |
+
+
+## 👨‍💻personal projects:
+
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
+| :------ | :------: | :------ | :------: |
 | PHP CRUD | [Link](https://github.com/storres20/PHPMysqlCRUD "Link") | [https://phpmysqlcrud.herokuapp.com/](https://phpmysqlcrud.herokuapp.com/ "https://phpmysqlcrud.herokuapp.com/") | Frontend + PHP |
 | PHP CRUD usando MVC | [Link](https://github.com/storres20/PHP_CRUD_MVC "Link") | [https://phpcrudmvc.herokuapp.com/](https://phpcrudmvc.herokuapp.com/ "https://phpcrudmvc.herokuapp.com/") | Frontend + PHP |
 | PHP CRUD and Codeigniter 3 | [Link](https://github.com/storres20/php-crud-codeigniter3 "Link") | [https://phpcodeigniter3.herokuapp.com/](https://phpcodeigniter3.herokuapp.com/ "https://phpcodeigniter3.herokuapp.com/") | Frontend + Codeigniter 3 (PHP) | 
