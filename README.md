@@ -33,7 +33,7 @@
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------ | :------: |
 | CRUD | [Link](https://github.com/storres20/crud "Link") | [https://crudreal.netlify.app/](https://crudreal.netlify.app/ "https://crudreal.netlify.app/") | React js |
-| API | [Link](https://github.com/storres20/api "Link") | [https://apicrudreal.herokuapp.com/](https://apicrudreal.herokuapp.com/ "https://apicrudreal.herokuapp.com/") | Node js |
+| API | [Link](https://github.com/storres20/api "Link") | [https://apicrudreal.herokuapp.com/api/products](https://apicrudreal.herokuapp.com/api/products "https://apicrudreal.herokuapp.com/api/products") | Node js |
 | Movie API | [Link](https://github.com/storres20/movies-react "Link") | [https://moviesx7.netlify.app/](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | React js |
 | Random person API | --- | --- | HTML/CSS/Javascript |
 
