@@ -24,7 +24,7 @@
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` | `🎨Figma` |
 | :------ | :------: | :------ | :------: | :------: |
 | CMYK Orange | [Link](https://github.com/storres20/cmyk-orange "Link") | https://cmyk-orange.netlify.app/ | Frontend + Firebase | [Link](https://www.figma.com/file/6PfcEJtVOg1H9ot4owLjNl/ColabOrange-CMYK-fork?node-id=0%3A1 "Link") |
-| Rutas | Private | http://www.aralda.com/ruta/ | Frontend + PHP - Codeigniter 3 | [Link](https://www.figma.com/file/CV0BmYQEau9bLiV9oFfMqj/Rutas?node-id=0%3A1 "Link") |
+| Rutas | Private | https://rutav2.herokuapp.com/ | Frontend + PHP - Codeigniter 3 | [Link](https://www.figma.com/file/CV0BmYQEau9bLiV9oFfMqj/Rutas?node-id=0%3A1 "Link") |
 | Starflix | [Link](https://github.com/storres20/starflix "Link") | https://starflix-v2.netlify.app/ | React js + API | --- |
 
 
