@@ -5,11 +5,11 @@
 
 ## 🔭skils:
 
-| `🔭Frontend` | `⚡Backend` | `📫Database` |
-| ------ | ------ | ------ | 
-| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql |
-| React js | Nodejs |  |
-| Bootstrap |  |  |
+| `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` |
+| ------ | ------ | ------ | ------ |
+| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | AWS |
+| React js | Nodejs |  | Heroku |
+| Bootstrap |  |  | Netlify |
 
 
 ## 💼commercial projects:
