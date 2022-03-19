@@ -9,7 +9,7 @@
 | ------ | ------ | ------ | ------ |
 | HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | AWS |
 | React js | Nodejs |  | Heroku |
-| Bootstrap |  |  | Netlify |
+| Bootstrap / Sass |  |  | Netlify |
 
 
 ## 💼commercial projects:
