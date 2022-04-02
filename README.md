@@ -52,6 +52,7 @@
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------ | :------: |
 | API php | [Link](https://github.com/storres20/apiphp "Link") | --- | Docker - PHP Nginx Mariadb PHPMYADMIN |
+| API php2 | [Link](https://github.com/storres20/apiphp2 "Link") | --- | Docker - PHP Apache Mysql PHPMYADMIN |
 
 
 ## 👨‍💻personal projects:
