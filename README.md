@@ -36,7 +36,7 @@
 | :------ | :------: | :------ | :------: |
 | API JPH | [Link](https://github.com/storres20/api-jph "Link") | [https://api-jph.netlify.app/](https://api-jph.netlify.app/ "https://api-jph.netlify.app/") | React js |
 | Movie API | [Link](https://github.com/storres20/movies-react "Link") | [https://moviesx7.netlify.app/](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | React js |
-| Random person API | --- | --- | HTML/CSS/Javascript |
+| Random person API | [Link](https://github.com/storres20/random "Link") | --- | React js |
 
 
 ## 🧩 API create
