@@ -4,10 +4,6 @@
 
 > These are My Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=storres20&layout=compact&theme=radical&hide=hack,dockerfile,shell&langs_count=10) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=storres20&count_private=true&show_icons=true&theme=radical&hide=stars,commits)
-
-
-
 ## 🔭skils:
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` |
@@ -15,6 +11,8 @@
 | HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | AWS |
 | React js | Nodejs |  | Heroku |
 | Bootstrap / Sass |  |  | Netlify |
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=storres20&layout=compact&theme=radical&hide=hack,dockerfile,shell,ejs&langs_count=10) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=storres20&count_private=true&show_icons=true&theme=radical&hide=stars,commits)
 
 
 ## 💼commercial projects:
@@ -66,8 +64,6 @@
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------ | :------: |
 | | | | |
-
-
 
 
 <!--
