@@ -21,7 +21,7 @@
 | :------ | :------: | :------: | :------: | :------: |
 | Reflexo Web | [Link](https://github.com/storres20/reflexoWeb "Link") | [Link](https://reflexoweb.netlify.app/ "https://reflexoweb.netlify.app/") | Frontend | --- |
 | Cevicheria - El caballero de los mares | [Link](https://github.com/storres20/elcaballerosingle "Link") | [Link](https://elcaballerosingle.netlify.app/) | Frontend | [Link](https://www.figma.com/file/li6agWiNyBh7ptkjsp9aWR/cebicheria?node-id=0%3A1 "Link") |
-| Cevicheria - El caballero de los mares | [Link](https://github.com/storres20/caballeroreact "Link") | [Link](https://elcaballeroreact.netlify.app/) | React js | --- |
+
 
 
 ## 👨‍👦‍👦team projects:
