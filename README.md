@@ -63,6 +63,12 @@
 | API php | [Link](https://github.com/storres20/apiphp "Link") | --- | Docker - PHP Nginx Mariadb PHPMYADMIN |
 | API php2 | [Link](https://github.com/storres20/apiphp2 "Link") | --- | Docker - PHP Apache Mysql PHPMYADMIN |
 
+## ☁️ AWS
+
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
+| :------ | :------: | :------: | :------: |
+| MariaDB | [Link](https://github.com/storres20/AWS-mariaDB "Link") | --- | AWS RDS |
+
 
 ## 👨‍💻personal projects:
 
