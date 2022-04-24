@@ -38,7 +38,7 @@
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------: | :------: |
-| API JPH | [Link](https://github.com/storres20/api-jph "Link") | [Link](https://api-jph.netlify.app/ "https://api-jph.netlify.app/") | React js |
+| JsonPlaceHolder-front | [Link](https://github.com/storres20/api-jph "Link") | [Link](https://api-jph.netlify.app/ "https://api-jph.netlify.app/") | React js |
 | Movie API | [Link](https://github.com/storres20/movies-react "Link") | [Link](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | React js |
 | Random person API | [Link](https://github.com/storres20/random "Link") | --- | React js |
 
