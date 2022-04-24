@@ -8,7 +8,7 @@
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` |
 | ------ | ------ | ------ | ------ |
-| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | AWS |
+| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | Vercel |
 | React js | Nodejs |  | Heroku |
 | Bootstrap / Sass |  |  | Netlify |
 
