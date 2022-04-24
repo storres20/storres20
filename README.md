@@ -68,7 +68,7 @@
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------: | :------: |
-| | | | |
+| Image storage | [Link](https://github.com/storres20/IMGBB-storage "Link") | [Link](https://imgbb-storage.netlify.app/) | React js + imgbb API |
 
 
 <!--
