@@ -31,7 +31,8 @@
 | Rutas | Private | [Link](https://rutav22.herokuapp.com/) | Frontend + PHP - Codeigniter 3 + Mysql | [Link](https://www.figma.com/file/CV0BmYQEau9bLiV9oFfMqj/Rutas?node-id=0%3A1 "Link") |
 | Starflix | [Link](https://github.com/storres20/starflix "Link") | [Link](https://starflix-v2.netlify.app/) | React js + API | --- |
 |  |  |  |  |
-| VeridE | [Link](https://github.com/No-Country/C4-30-front "Link") | [Link](https://veride.netlify.app/) | React js + API | --- |
+| VeridE-front | [Link](https://github.com/No-Country/C4-30-front "Link") | [Link](https://veride.netlify.app/) | React js | --- |
+| VeridE-back | [Link](https://github.com/storres20/c4-30-t-BACK "Link") | [Link](http://country-app-v3.herokuapp.com/) | Ruby + Ruby on rails | --- |
 
 
 ## 🧩 API consume
