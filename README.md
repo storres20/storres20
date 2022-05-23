@@ -1,7 +1,5 @@
 # Welcome `coders` 👋
 
-<-- > This is My Portfolio => https://my-portfolio20.netlify.app/ -->
-
 > These are My Projects
 
 ## 🔭skils:
