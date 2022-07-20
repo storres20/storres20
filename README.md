@@ -36,7 +36,8 @@
 | bs20-back | [Link](https://github.com/storres20/bs20-back "Link") | [Link](https://bs20-back.vercel.app/) | Node js + Mysql |
 |  |  |  |  |
 | rutas20 | [Link](https://github.com/storres20/rutasq2-frontend "Link") | [Link](https://rutas20.netlify.app/) | React js |
-
+|  |  |  |  |
+| AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | --- | React js + Nodejs |
 
 ## 👨‍💻personal projects:
 
