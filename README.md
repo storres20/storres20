@@ -37,7 +37,7 @@
 |  |  |  |  |
 | rutas20 | [Link](https://github.com/storres20/rutasq2-frontend "Link") | [Link](https://rutas20.netlify.app/) | React js |
 |  |  |  |  |
-| AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | --- | React js + Nodejs |
+| AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | [Link](https://alkemy20-front.netlify.app/) | React js + Nodejs |
 
 ## 👨‍💻personal projects:
 
