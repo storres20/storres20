@@ -1,6 +1,6 @@
 # Hello I'm `ITALO` 👋
 
-![Blue Modern and Simple Political Vote Banner (1)](https://user-images.githubusercontent.com/81504385/200730362-01ed2daa-f28c-49ba-bf6d-c717bd49ccc7.png)
+![Blue Modern and Simple Political Vote Banner (1) (1) (1)](https://user-images.githubusercontent.com/81504385/200877031-640fc6ba-73f6-4919-b747-0502ba59e49f.png)
 
 > 𝑯𝒆𝒍𝒍𝒐 𝒆𝒗𝒆𝒓𝒚𝒐𝒏𝒆, 𝑰'𝒎 𝒂 Full-Stack Web Developer 𝒘𝒊𝒕𝒉 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒎𝒂𝒌𝒊𝒏𝒈 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
 
