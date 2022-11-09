@@ -1,6 +1,16 @@
-# Welcome `coders` 👋
+# Hello I'm `ITALO` 👋
 
-> These are My Projects
+![Blue Modern and Simple Political Vote Banner (1)](https://user-images.githubusercontent.com/81504385/200730362-01ed2daa-f28c-49ba-bf6d-c717bd49ccc7.png)
+
+> 𝑯𝒆𝒍𝒍𝒐 𝒆𝒗𝒆𝒓𝒚𝒐𝒏𝒆, 𝑰'𝒎 𝒂 Full-Stack Web Developer 𝒘𝒊𝒕𝒉 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒎𝒂𝒌𝒊𝒏𝒈 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
+
+> 𝑵𝒐𝒘𝒂𝒅𝒂𝒚𝒔, I make freelance web and mobile apps for peruvian companies and some bussiness.
+
+> 𝑰𝒏 𝒎𝒚 𝒇𝒓𝒆𝒆𝒕𝒊𝒎𝒆, I colaborate with LATAM friends for free projects
+
+> 𝑯𝒐𝒘 𝒕𝒐 𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆?
+
+
 
 ## 🔭skils:
 
