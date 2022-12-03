@@ -43,7 +43,7 @@
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` |
 | ------ | ------ | ------ | ------ |
-| React js | Nodejs |  | Heroku |
+| React js | Nodejs |  |  |
 | HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | Vercel |
 | Bootstrap / Sass |  |  | Netlify |
 
