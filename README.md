@@ -76,14 +76,6 @@
 |  |  |  |  |
 | AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | [Link](https://alkemy20-front.netlify.app/) | React js + Nodejs |
 
-## 👨‍💻personal projects:
-
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
-| :------ | :------: | :------: | :------: |
-| Image storage | [Link](https://github.com/storres20/IMGBB-storage "Link") | [Link](https://imgbb-storage.netlify.app/) | React js + imgbb API |
-| API with php | [Link](https://github.com/storres20/apiphp3 "Link") | [Link](https://apiphp3.herokuapp.com/) | PHP + Mysql |
-| Cursos | [Link](https://github.com/storres20/cursos-front "Link") | [Link](http://cursos-front.herokuapp.com/) | PHP + Mysql |
-
 
 <!--
 **storres20/storres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
