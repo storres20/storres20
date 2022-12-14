@@ -34,11 +34,10 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-<!--
-<a href="https://github.com/storres20/storres20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=storres20&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Italo's GitHub Stats" />
-</a>
--->
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=storres20&theme=radical&show_icons=true&locale=en" alt="storres20" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=storres20&theme=radical" alt="storres20" /></p>
+
 
 ## 🔭skils:
 
