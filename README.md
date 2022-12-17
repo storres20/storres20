@@ -45,7 +45,7 @@
 | ------ | ------ | ------ | ------ |
 | React js / Redux | Nodejs |  | Render |
 | HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | Vercel |
-| Bootstrap / Sass | Ruby |  | Netlify |
+| Bootstrap / Sass | Ruby On Rails |  | Netlify |
 
 
 ## 👨‍👦‍👦team projects:
