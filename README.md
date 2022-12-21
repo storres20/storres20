@@ -41,25 +41,25 @@
 
 ## 🔭skils:
 
-| `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` |
-| ------ | ------ | ------ | ------ |
-| React js / Redux | Nodejs |  | Render |
-| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | Vercel |
-| Bootstrap / Sass | Ruby On Rails |  | Netlify |
+| `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` | `🧪Testing` |
+| :------: | :------: | :------: | :------: | :------: |
+| React js / Redux | Nodejs |  | Render | Jest |
+| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | Vercel | |
+| Bootstrap / Sass | Ruby On Rails |  | Netlify | |
 
 
 ## 👨‍👦‍👦team projects:
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` | `🎨Figma` |
-| :------ | :------: | :------: | :------: | :------: |
-| VeridE-front | [Link](https://github.com/No-Country/C4-30-front "Link") | [Link](https://veride.netlify.app/) | React js | --- |
-| VeridE-back | [Link](https://github.com/storres20/c4-30-t-BACK "Link") | [Link](http://country-app-v3.herokuapp.com/) | Ruby + Ruby on rails | --- |
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
+| :------ | :------: | :------: | :------: |
+| VeridE-front | [Link](https://github.com/No-Country/C4-30-front "Link") | [Link](https://veride.netlify.app/) | React js |
+| VeridE-back | [Link](https://github.com/storres20/c4-30-t-BACK "Link") | [Link](http://country-app-v3.herokuapp.com/) | Ruby + Ruby on rails |
 
 
 ## 🧩 API consume
 
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
-| :------ | :------: | :------: | :------: |
-| Movie | [Link](https://github.com/storres20/movies-react "Link") | [Link](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | React js + API movie |
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` | `🧪Testing` |
+| :------ | :------: | :------: | :------: | :------: |
+| Movie | [Link](https://github.com/storres20/movies-react "Link") | [Link](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | Reactjs/Redux + API movie | Jest |
 
 
 ## 🧩 API create
