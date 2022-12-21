@@ -52,7 +52,7 @@
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------: | :------: |
 | VeridE-front | [Link](https://github.com/No-Country/C4-30-front "Link") | [Link](https://veride.netlify.app/) | React js |
-| VeridE-back | [Link](https://github.com/storres20/c4-30-t-BACK "Link") | [Link](http://country-app-v3.herokuapp.com/) | Ruby + Ruby on rails |
+| VeridE-back | [Link](https://github.com/storres20/c4-30-t-BACK "Link") | --- | Ruby + Ruby on rails |
 
 
 ## 🧩 API consume
