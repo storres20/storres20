@@ -43,9 +43,9 @@
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` | `🧪Testing` |
 | :------: | :------: | :------: | :------: | :------: |
-| React js / Redux | Nodejs |  | Render | Jest |
-| HTML/CSS/Javascript | PHP + Codeigniter 3 | Mysql | Vercel | |
-| Bootstrap / Sass | Ruby On Rails |  | Netlify | |
+| React js / Redux | Nodejs | MongoDB | Render | Jest |
+| HTML/CSS/Javascript | Ruby On Rails | Mysql | Vercel | |
+| Bootstrap / Sass |  |  | Netlify | |
 
 
 ## 👨‍👦‍👦team projects:
@@ -66,19 +66,19 @@
 
 ## 🧩 API create
 
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
-| :------ | :------: | :------: | :------: |
-| Pacientes | [Link](https://github.com/storres20/pacientes "Link") | [Link](https://pacientes20.netlify.app/ "https://pacientes20.netlify.app/") | Reactjs/Redux + Nodejs + MongoDB |
+|`🚀Resumen` | `📋Repository` | `🌎Website` | `🔭Frontend` | `⚡Backend` | `📫Database` |
+| :------ | :------: | :------: | :------: | :------: | :------: |
+| Pacientes | [Link](https://github.com/storres20/pacientes "Link") | [Link](https://pacientes20.netlify.app/ "https://pacientes20.netlify.app/") | Reactjs/Redux | Nodejs/Express | MongoDB |
+|  |  |  |  |  |  |
+| REAL-front | [Link](https://github.com/storres20/REAL-front "Link") | [Link](https://real-front.netlify.app/ "https://real-front.netlify.app/") | Reactjs |  |  |
+| REAL-back | [Link](https://github.com/storres20/REAL-back "Link") | [Link](https://real-back.vercel.app/api/products "https://real-back.vercel.app/api/products") |  | Nodejs/Express | Mysql |
+|  |  |  |  | | |
+| bs20-front | [Link](https://github.com/storres20/bs20-front "Link") | [Link](https://bs20-front.netlify.app/) | Frontend | | |
+| bs20-back | [Link](https://github.com/storres20/bs20-back "Link") | [Link](https://bs20-back.vercel.app/) | | Nodejs/Express | Mysql |
+|  |  |  |  | | |
+| rutas20 | [Link](https://github.com/storres20/rutasq2-frontend "Link") | [Link](https://rutas20.netlify.app/) | Reactjs | | |
 |  |  |  |  |
-| REAL-front | [Link](https://github.com/storres20/REAL-front "Link") | [Link](https://real-front.netlify.app/ "https://real-front.netlify.app/") | Reactjs |
-| REAL-back | [Link](https://github.com/storres20/REAL-back "Link") | [Link](https://real-back.vercel.app/api/products "https://real-back.vercel.app/api/products") | Nodejs + Mysql |
-|  |  |  |  |
-| bs20-front | [Link](https://github.com/storres20/bs20-front "Link") | [Link](https://bs20-front.netlify.app/) | Frontend |
-| bs20-back | [Link](https://github.com/storres20/bs20-back "Link") | [Link](https://bs20-back.vercel.app/) | Nodejs + Mysql |
-|  |  |  |  |
-| rutas20 | [Link](https://github.com/storres20/rutasq2-frontend "Link") | [Link](https://rutas20.netlify.app/) | Reactjs |
-|  |  |  |  |
-| AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | [Link](https://alkemy20-front.netlify.app/) | Reactjs + Nodejs |
+| AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | [Link](https://alkemy20-front.netlify.app/) | Reactjs | Nodejs/Express | Mysql |
 
 
 <!--
