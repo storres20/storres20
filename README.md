@@ -43,9 +43,9 @@
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` | `🧪Testing` |
 | :------: | :------: | :------: | :------: | :------: |
-| React js / Redux | Nodejs | MongoDB | Render | Jest |
+| React js / Redux / Typescript | Nodejs | MongoDB | Render | Jest |
 | HTML/CSS/Javascript | Ruby On Rails | Mysql | Vercel | |
-| Bootstrap / Sass |  |  | Netlify | |
+| Bootstrap / Sass |  | PostgreSQL | Netlify | |
 
 
 ## 👨‍👦‍👦team projects:
