@@ -62,6 +62,7 @@
 | Movie | [Link](https://github.com/storres20/movies-react "Link") | [Link](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | Reactjs/Redux + API movie | Jest |
 | spaceTravelHub | [Link](https://github.com/storres20/spaceTravelHub "Link") | [Link](https://spacetravelhub.onrender.com/ "https://spacetravelhub.onrender.com/") | Reactjs/Redux + API | Jest |
 | javascript capstone | [Link](https://github.com/storres20/javascript_capstone "Link") | [Link](https://storres20.github.io/javascript_capstone/dist/ "https://storres20.github.io/javascript_capstone/dist/") | Javascript + API | Jest |
+| random user | [Link](https://github.com/storres20/random "Link") | [Link](https://randomuser2023.netlify.app/ "https://randomuser2023.netlify.app/") | Reactjs + Typescript | --- |
 
 
 ## 🧩 API create
