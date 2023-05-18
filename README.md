@@ -76,8 +76,6 @@
 |  |  |  |  | | |
 | bs20-front | [Link](https://github.com/storres20/bs20-front "Link") | [Link](https://bs20-front.netlify.app/) | Frontend | | |
 | bs20-back | [Link](https://github.com/storres20/bs20-back "Link") | [Link](https://bs20-back.vercel.app/) | | Nodejs/Express | Mysql |
-|  |  |  |  | | |
-| rutas20 | [Link](https://github.com/storres20/rutasq2-frontend "Link") | [Link](https://rutas20.netlify.app/) | Reactjs | | |
 |  |  |  |  |
 | AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | [Link](https://alkemy20-front.netlify.app/) | Reactjs | Nodejs/Express | Mysql |
 
