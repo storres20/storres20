@@ -45,7 +45,7 @@
 | :------: | :------: | :------: | :------: | :------: |
 | React js / Redux / Typescript | Nodejs | MongoDB | Render | Jest |
 | HTML/CSS/Javascript | Ruby On Rails | Mysql | Vercel | |
-| Bootstrap / Sass |  | PostgreSQL | Netlify | |
+| Bootstrap / Sass / Tailwind CSS |  | PostgreSQL | Netlify | |
 
 
 ## 👨‍👦‍👦team projects:
@@ -69,6 +69,9 @@
 
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `🔭Frontend` | `⚡Backend` | `📫Database` |
 | :------ | :------: | :------: | :------: | :------: | :------: |
+| Doctor's appointment Frontend | [Link](https://github.com/storres20/Doctors-appointment-frontend "Link") | [Link](https://doctorsfinal.netlify.app/ "https://doctorsfinal.netlify.app/") | Reactjs/Redux | | |
+| Doctor's appointment Backend | [Link](https://github.com/storres20/doctorsmongo-back "Link") | [Link](https://doctorsmongo-back.vercel.app/ "https://doctorsmongo-back.vercel.app/") | | Nodejs/Express | MongoDB |
+|  |  |  |  |  |  |
 | Pacientes | [Link](https://github.com/storres20/pacientes "Link") | [Link](https://pacientes20.netlify.app/ "https://pacientes20.netlify.app/") | Reactjs/Redux | Nodejs/Express | MongoDB |
 |  |  |  |  |  |  |
 | REAL-front | [Link](https://github.com/storres20/REAL-front "Link") | [Link](https://real-front.netlify.app/ "https://real-front.netlify.app/") | Reactjs |  |  |
