@@ -43,45 +43,16 @@
 
 | `🔭Frontend` | `⚡Backend` | `📫Database` | `☁️Cloud` | `🧪Testing` |
 | :------: | :------: | :------: | :------: | :------: |
-| React js / Redux / Typescript | Nodejs | MongoDB | Render | Jest |
+| Next js / Redux / Typescript | Nodejs | MongoDB | Railway | Jest |
 | HTML/CSS/Javascript | Ruby On Rails | Mysql | Vercel | |
 | Bootstrap / Sass / Tailwind CSS |  | PostgreSQL | Netlify | |
 
 
-## 👨‍👦‍👦team projects:
+## 🧪 MHUTEMP real-time monitoring of temperature and humidity:
 |`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` |
 | :------ | :------: | :------: | :------: |
-| VeridE-front | [Link](https://github.com/No-Country/C4-30-front "Link") | [Link](https://veride.netlify.app/) | React js |
-| VeridE-back | [Link](https://github.com/storres20/c4-30-t-BACK "Link") | --- | Ruby + Ruby on rails |
-
-
-## 🧩 API consume
-
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `💻IT` | `🧪Testing` |
-| :------ | :------: | :------: | :------: | :------: |
-| Movie | [Link](https://github.com/storres20/movies-react "Link") | [Link](https://moviesx7.netlify.app/ "https://moviesx7.netlify.app/") | Reactjs/Redux + API movie | Jest |
-| spaceTravelHub | [Link](https://github.com/storres20/spaceTravelHub "Link") | [Link](https://spacetravelhub.onrender.com/ "https://spacetravelhub.onrender.com/") | Reactjs/Redux + API | Jest |
-| javascript capstone | [Link](https://github.com/storres20/javascript_capstone "Link") | [Link](https://storres20.github.io/javascript_capstone/dist/ "https://storres20.github.io/javascript_capstone/dist/") | Javascript + API | Jest |
-| random user | [Link](https://github.com/storres20/random "Link") | [Link](https://randomuser2023.netlify.app/ "https://randomuser2023.netlify.app/") | Reactjs + Typescript | --- |
-
-
-## 🧩 API create
-
-|`🚀Resumen` | `📋Repository` | `🌎Website` | `🔭Frontend` | `⚡Backend` | `📫Database` |
-| :------ | :------: | :------: | :------: | :------: | :------: |
-| Doctor's appointment Frontend | [Link](https://github.com/storres20/Doctors-appointment-frontend "Link") | [Link](https://doctorsfinal.netlify.app/ "https://doctorsfinal.netlify.app/") | Reactjs/Redux | | |
-| Doctor's appointment Backend | [Link](https://github.com/storres20/doctorsmongo-back "Link") | [Link](https://doctorsmongo-back.vercel.app/ "https://doctorsmongo-back.vercel.app/") | | Nodejs/Express | MongoDB |
-|  |  |  |  |  |  |
-| Pacientes | [Link](https://github.com/storres20/pacientes "Link") | [Link](https://pacientes20.netlify.app/ "https://pacientes20.netlify.app/") | Reactjs/Redux | Nodejs/Express | MongoDB |
-|  |  |  |  |  |  |
-| REAL-front | [Link](https://github.com/storres20/REAL-front "Link") | [Link](https://real-front.netlify.app/ "https://real-front.netlify.app/") | Reactjs |  |  |
-| REAL-back | [Link](https://github.com/storres20/REAL-back "Link") | [Link](https://real-back.vercel.app/api/products "https://real-back.vercel.app/api/products") |  | Nodejs/Express | Mysql |
-|  |  |  |  | | |
-| bs20-front | [Link](https://github.com/storres20/bs20-front "Link") | [Link](https://bs20-front.netlify.app/) | Frontend | | |
-| bs20-back | [Link](https://github.com/storres20/bs20-back "Link") | [Link](https://bs20-back.vercel.app/) | | Nodejs/Express | Mysql |
-|  |  |  |  |
-| AlkemyFS | [Link](https://github.com/storres20/alkemyFS "Link") | [Link](https://alkemy20-front.netlify.app/) | Reactjs | Nodejs/Express | Mysql |
-
+| Frontend | [Link](https://github.com/storres20/bio-data-nextjs "Link") | [Link](https://bio-data-nextjs.netlify.app/) | Next js |
+| Backend | [Link](https://github.com/storres20/bio-data "Link") | --- | Node js + MongoDB |
 
 <!--
 **storres20/storres20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
